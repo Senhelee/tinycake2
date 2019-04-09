@@ -1,0 +1,32 @@
+/* small table to big table:less than 977px */
+
+@media only screen and (max-width:977px) {
+    .title-row {
+        font-size: 14px;
+    }
+    
+    .menu {
+        margin-top: 30px;
+    }
+    
+    .tetimonmeta {
+        margin-top: 12px;
+        text-align: right;
+    }
+    
+    .map {
+        width: 109%;
+    }
+}
+
+/* small phone to small table:from 0px to 744px */
+
+@media only screen and (max-width:744px) {
+    
+}
+
+/* small phone :from 0 to 496px */
+
+@media only screen and (max-width:496px) {
+    
+}
